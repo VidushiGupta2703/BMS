@@ -28,7 +28,7 @@ export default function Home() {
             return <div>
               <span className={styles.seats}>
                 <span className={classnames(styles.rowName, styles.seat)}>{rowCode}</span>
-                {seats.map(({seatNo, isAvail, isWalkway, isPreferred}, i) => {
+                {seats.map(({seatNo}, i) => {
                   return <div key={`${i}-${rowCode}`} className={classnames(styles.seat)}>{seatNo}</div>
                 })}
               </span>
