@@ -1,17 +1,32 @@
 import Head from "next/head";
 import styles from "@/pages/styles.module.css";
-import getSeatMap from "@/utils/getSeatMap";
-import {useEffect, useState} from "react";
+import getSeatMap, {getTimeSlots} from "@/utils/getSeatMap";
+import {Fragment, useEffect, useState} from "react";
 import classnames from 'classnames'
 
 export default function Home() {
   const [seatMap, setSeatMap] = useState({seatData: [], categoryData: []})
-  const [numSeats] = useState(3)
+  const [timeSlots, setTimeSlots] = useState([  ])
+  const [selectedSlot, setSlot] = useState(10)
+  const [numSeats, setNumSeats] = useState(3)
+  const [selectedSeats, setSelectedSeats] = useState([])
   useEffect(() => {
-    getSeatMap().then(seatMap => {
+    getTimeSlots().then(x => {
+      setTimeSlots(x)
+      setSelectedSeats([])
+    })
+
+  }, [])
+  useEffect(() => {
+    selectedSlot && getSeatMap(selectedSlot).then(seatMap => {
+      seatMap.categoryData = seatMap.categoryData.reduce((res, item) => {
+        res[item.areaCode] = item
+        return res
+      }, {})
       seatMap && seatMap.seatData && seatMap.categoryData && setSeatMap(seatMap)
     })
-  }, [])
+  }, [selectedSlot])
+  let currentArea = null
   return (
     <>
       <Head>
@@ -23,19 +38,33 @@ export default function Home() {
       <div
         className={styles.page}
       >
+        <div className={styles.numSelector}>
+          <span>Select your time slot?</span>
+          {timeSlots.map((timeSlot, index) => {
+            return <div key={timeSlot.id} onClick={() => {
+              setSlot(timeSlot.id)}
+            } className={classnames(styles.timeSlot, timeSlot.id === selectedSlot && styles.selected)}>{timeSlot.name}</div>
+          })}
+        </div>
         <div>
-          <div className={styles.numSelector}><span>How many seats do you want?</span><div>{[...new Array(9)].map((_, i) => <div key={i} className={classnames(styles.seat,  (i + 1) === numSeats &&  styles.selected)}>{i + 1}</div>)}</div></div>
+          <div className={styles.numSelector}><span>How many seats do you want?</span><div>{[...new Array(9)].map((_, i) => <div key={i} onClick={() => setNumSeats(i + 1)} className={classnames(styles.seat,  (i + 1) === numSeats &&  styles.selected)}>{i + 1}</div>)}</div></div>
         </div>
         <div className={styles.map}>
-          {seatMap.seatData.map(({rowCode, seats}, index) => {
-            return <div>
+          {seatMap.seatData.map(({rowCode, seats, areaCode}, index) => {
+            const data = []
+            if (areaCode !== currentArea) {
+              currentArea = areaCode
+              data.push(<div key={areaCode} className={styles.area}>{seatMap.categoryData[areaCode].areaName} - Rs. {seatMap.categoryData[areaCode].price}</div>)
+            }
+            data.push(<div>
               <span className={styles.seats}>
                 <span className={classnames(styles.rowName, styles.seat)}>{rowCode}</span>
                 {seats.map(({seatNo, isAvail, isWalkway, isPreferred}, i) => {
-                  return <div key={`${i}-${rowCode}`} className={classnames(styles.seat)}>{seatNo}</div>
+                  return <div key={`${i}-${rowCode}`} className={classnames(styles.seat, !isAvail && styles.booked, isWalkway && styles.walkway, !isWalkway && isAvail && isPreferred && styles.preferred)}>{seatNo}</div>
                 })}
               </span>
-            </div>
+            </div>)
+            return <Fragment key={rowCode}>{data}</Fragment>
           })}
         </div>
         <div className={styles.legendContainer}>

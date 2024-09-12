@@ -1298,6 +1298,9 @@ const a = {
   ]
 }
 export default function handler(req, res) {
+  if (getTrueFalse(0.1)) {
+    res.status(500).json({ error: "Internal Server Error" });
+  }
   if (!req.body.timeSlot) {
     res.status(400).json({ error: "timeSlot is required" });
   }
