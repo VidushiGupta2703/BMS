@@ -22,72 +22,72 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "01",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "02",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "03",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "04",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "05",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "06",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "07",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "08",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "09",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "10",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "11",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "12",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "13",
-                    "isAvail": "N"
+                    "isAvail": false
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "14",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -110,22 +110,22 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "01",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "02",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "03",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "04",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -136,67 +136,67 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "05",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "06",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "07",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "08",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "09",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "10",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "11",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "12",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "13",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "14",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "15",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "16",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "17",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -213,22 +213,22 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "01",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "02",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "03",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "04",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -239,67 +239,67 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "05",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "06",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "07",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "08",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "09",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "10",
-                    "isAvail": "N"
+                    "isAvail": false
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "11",
-                    "isAvail": "N"
+                    "isAvail": false
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "12",
-                    "isAvail": "N"
+                    "isAvail": false
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "13",
-                    "isAvail": "N"
+                    "isAvail": false
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "14",
-                    "isAvail": "N"
+                    "isAvail": false
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "15",
-                    "isAvail": "N"
+                    "isAvail": false
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "16",
-                    "isAvail": "N"
+                    "isAvail": false
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "17",
-                    "isAvail": "N"
+                    "isAvail": false
                 },
                 {
                     "isWalkway": true
@@ -316,22 +316,22 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "01",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "02",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "03",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "04",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -342,67 +342,67 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "05",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "06",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "07",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "08",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "09",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "10",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "11",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "12",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "13",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "14",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "15",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "16",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "17",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -419,22 +419,22 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "01",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "02",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "03",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "04",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -445,67 +445,67 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "05",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "06",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "07",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "08",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "09",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "10",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "11",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "12",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "13",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "14",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "15",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "16",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "17",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -540,67 +540,67 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "01",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "02",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "03",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "04",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "05",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "06",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "07",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "08",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "09",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "10",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "11",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "12",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "13",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -632,79 +632,79 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "01",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "02",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "03",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "04",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "05",
-                    "isAvail": "Y",
+                    "isAvail": true,
                     "isPreferred": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "06",
-                    "isAvail": "Y",
+                    "isAvail": true,
                     "isPreferred": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "07",
-                    "isAvail": "Y",
+                    "isAvail": true,
                     "isPreferred": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "08",
-                    "isAvail": "Y",
+                    "isAvail": true,
                     "isPreferred": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "09",
-                    "isAvail": "Y",
+                    "isAvail": true,
                     "isPreferred": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "10",
-                    "isAvail": "Y",
+                    "isAvail": true,
                     "isPreferred": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "11",
-                    "isAvail": "Y",
+                    "isAvail": true,
                     "isPreferred": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "12",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "13",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "14",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -736,75 +736,75 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "01",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "02",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "03",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "04",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "05",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "06",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "07",
-                    "isAvail": "Y",
+                    "isAvail": true,
                     "isPreferred": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "08",
-                    "isAvail": "Y",
+                    "isAvail": true,
                     "isPreferred": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "09",
-                    "isAvail": "Y",
+                    "isAvail": true,
                     "isPreferred": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "10",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "11",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "12",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "13",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "14",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -836,73 +836,73 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "01",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "02",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "03",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "04",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "05",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "06",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "07",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "08",
-                    "isAvail": "Y",
+                    "isAvail": true,
                     "isPreferred": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "09",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "10",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "11",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "12",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "13",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "14",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -934,72 +934,72 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "01",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "02",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "03",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "04",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "05",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "06",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "07",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "08",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "09",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "10",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "11",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "12",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "13",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "14",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -1031,72 +1031,72 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "01",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "02",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "03",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "04",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "05",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "06",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "07",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "08",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "09",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "10",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "11",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "12",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "13",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "14",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
@@ -1128,72 +1128,72 @@ export const data = {
                 {
                     "isWalkway": false,
                     "seatNo": "01",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "02",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "03",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "04",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "05",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "06",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "07",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "08",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "09",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "10",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "11",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "12",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "13",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": false,
                     "seatNo": "14",
-                    "isAvail": "Y"
+                    "isAvail": true
                 },
                 {
                     "isWalkway": true
